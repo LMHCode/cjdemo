@@ -1,8 +1,8 @@
 {
-  "name": "cj",
-  "description": "A Vue.js project",
-  "version": "1.0.0",
-  "author": "liuminghui <minghui.liu@transsnet.com>",
+  "name": "cj-lmh",
+  "description": "vue-pay-pop",
+  "version": "1.0.1",
+  "author": "liuminghui",
   "license": "MIT",
   "private": false,
   "repository": {
