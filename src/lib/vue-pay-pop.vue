@@ -1,3 +1,3 @@
 <template>
-  <div>hello cj</div>
+  <div>liuminghui weclome you</div>
 </template>
